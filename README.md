@@ -4,4 +4,4 @@
 
 ## Live page
 
-https://schweppes-js.github.io/js-spock-rock-game/
+https://schweppes-js.github.io/js-math-sprint-game/
